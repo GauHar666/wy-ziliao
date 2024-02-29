@@ -1,1 +1,1 @@
-print("hello wqz")
+print("hello wqz-1")
